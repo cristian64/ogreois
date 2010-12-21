@@ -1,6 +1,6 @@
-#include <OGRE/Ogre.h>
-#include <OGRE/OgreTerrain.h>
-#include <OGRE/OgreTerrainGroup.h>
+#include "Ogre.h"
+#include "OgreTerrain.h"
+#include "OgreTerrainGroup.h"
 
 #include <iostream>
 using namespace std;

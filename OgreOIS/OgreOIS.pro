@@ -13,8 +13,8 @@ OTHER_FILES += \
     textures \
 
 LIBS += -lOgreMain -lOgreTerrain -lOIS
-INCLUDEPATH += -I/usr/include/OGRE/
-INCLUDEPATH += -I/usr/include/OGRE/Terrain
+INCLUDEPATH += /usr/include/OGRE/
+INCLUDEPATH += /usr/include/OGRE/Terrain
 
 #MAKEFILE DEL PALAZO
 #main: main.cpp
