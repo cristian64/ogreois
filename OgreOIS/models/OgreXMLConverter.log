@@ -1,0 +1,85 @@
+13:12:33: Creating resource group General
+13:12:33: Creating resource group Internal
+13:12:33: Creating resource group Autodetect
+13:12:33: Registering ResourceManager for type Mesh
+13:12:33: Registering ResourceManager for type Material
+13:12:33: Registering ResourceManager for type Skeleton
+13:12:33: XMLSkeletonSerializer writing  skeleton data to ninja.skeleton.xml...
+13:12:33: Populating DOM...
+13:12:33: Exporting bones..
+13:12:33: There are 28 bones.
+13:12:33:    Exporting Bone number 0
+13:12:33:    Exporting Bone number 1
+13:12:33:    Exporting Bone number 2
+13:12:33:    Exporting Bone number 3
+13:12:33:    Exporting Bone number 4
+13:12:33:    Exporting Bone number 5
+13:12:33:    Exporting Bone number 6
+13:12:33:    Exporting Bone number 7
+13:12:33:    Exporting Bone number 8
+13:12:33:    Exporting Bone number 9
+13:12:33:    Exporting Bone number 10
+13:12:33:    Exporting Bone number 11
+13:12:33:    Exporting Bone number 12
+13:12:33:    Exporting Bone number 13
+13:12:33:    Exporting Bone number 14
+13:12:33:    Exporting Bone number 15
+13:12:33:    Exporting Bone number 16
+13:12:33:    Exporting Bone number 17
+13:12:33:    Exporting Bone number 18
+13:12:33:    Exporting Bone number 19
+13:12:33:    Exporting Bone number 20
+13:12:33:    Exporting Bone number 21
+13:12:33:    Exporting Bone number 22
+13:12:33:    Exporting Bone number 23
+13:12:33:    Exporting Bone number 24
+13:12:33:    Exporting Bone number 25
+13:12:33:    Exporting Bone number 26
+13:12:33:    Exporting Bone number 27
+13:12:33: Bones exported.
+13:12:33: Exporting animations, count=20
+13:12:33: Exporting animation: Attack1
+13:12:33: Animation exported.
+13:12:33: Exporting animation: Attack2
+13:12:33: Animation exported.
+13:12:33: Exporting animation: Attack3
+13:12:33: Animation exported.
+13:12:33: Exporting animation: Backflip
+13:12:33: Animation exported.
+13:12:33: Exporting animation: Block
+13:12:33: Animation exported.
+13:12:33: Exporting animation: Climb
+13:12:33: Animation exported.
+13:12:33: Exporting animation: Crouch
+13:12:33: Animation exported.
+13:12:33: Exporting animation: Death1
+13:12:33: Animation exported.
+13:12:33: Exporting animation: Death2
+13:12:33: Animation exported.
+13:12:33: Exporting animation: HighJump
+13:12:33: Animation exported.
+13:12:33: Exporting animation: Idle1
+13:12:33: Animation exported.
+13:12:33: Exporting animation: Idle2
+13:12:33: Animation exported.
+13:12:33: Exporting animation: Idle3
+13:12:33: Animation exported.
+13:12:33: Exporting animation: Jump
+13:12:33: Animation exported.
+13:12:33: Exporting animation: JumpNoHeight
+13:12:33: Animation exported.
+13:12:33: Exporting animation: Kick
+13:12:33: Animation exported.
+13:12:33: Exporting animation: SideKick
+13:12:33: Animation exported.
+13:12:33: Exporting animation: Spin
+13:12:33: Animation exported.
+13:12:33: Exporting animation: Stealth
+13:12:33: Animation exported.
+13:12:33: Exporting animation: Walk
+13:12:33: Animation exported.
+13:12:33: DOM populated, writing XML file..
+13:12:33: XMLSkeletonSerializer export successful.
+13:12:33: Unregistering ResourceManager for type Skeleton
+13:12:33: Unregistering ResourceManager for type Material
+13:12:33: Unregistering ResourceManager for type Mesh

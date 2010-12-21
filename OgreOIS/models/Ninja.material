@@ -1,0 +1,15 @@
+material Ninja
+{
+	technique
+	{
+		pass
+		{
+		
+			texture_unit
+			{
+				texture ninja.jpg
+			}
+		}
+	}
+}
+
